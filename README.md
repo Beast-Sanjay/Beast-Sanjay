@@ -2,6 +2,7 @@
 
 Get my current info >>>>>
 - 🔭 I’m currently working on ... Flutter De-Fi app development 
+- ✍🏻 Core Member of ACM student chapter
 - 🌱 I’m currently learning ... Dart 
 - 👯 I’m looking to collaborate on ... sharing ideas on some new tech
 - 🤔 I’m looking for help with ... Native Andriod Development
