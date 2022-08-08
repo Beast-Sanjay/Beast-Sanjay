@@ -9,4 +9,11 @@ Get my current info >>>>>
 - 💬 Ask me about ... Anything but not personal
 - 📫 How to reach me: ... check above
 - ⚡ Fun fact: ... I'm bit fasinating when I'm in good mode)
+
+### Github stats
 [!Github stats](https://github-readme-stats.vercel.app/api?username=Beast-Sanjay&count_private=true&show_icons=true&theme=radical&&include_all_commits=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beast-Sanjay&langs_count=7)
+
+
