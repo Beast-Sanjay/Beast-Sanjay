@@ -16,6 +16,6 @@ Get my current info >>>>>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beast-Sanjay&langs_count=7)
 
-(https://komarev.com/ghpvc/?username=Beast-Sanjay&label=Profile%20views&color=ce9927&style=flat)
+![visitors count](https://komarev.com/ghpvc/?username=Beast-Sanjay&label=Profile%20views&color=ce9927&style=flat)
 
 
