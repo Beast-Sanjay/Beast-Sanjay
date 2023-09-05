@@ -20,7 +20,6 @@ Skills: JAVA / FLUTTER / REACT / JS / HTML / CSS / ETHICAL HACKING
 
 - 🌱 I’m currently learning Cyber Security
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
