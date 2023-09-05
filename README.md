@@ -8,11 +8,11 @@
 </p> -->
 
 
-### Hi there 👋, I'm Sanjay
-#### Senior Student (Enthusiastic Techie)
+<h2 align="center">Hi there 👋, I'm Sanjay</h2>
+<h4 align="centre"> Senior Student (Enthusiastic Techie)</h4>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/colored-hacker-code-realistic-composition-with-person-creates-codes-hacking-stealing-information-vector-illustration_1284-18005.jpg?w=826&t=st=1693925915~exp=1693926515~hmac=6adf1d9247b779bc79d188c2f14fbb063074644f6b1f677b5eecd77963348215"/>
+  <img src="https://img.freepik.com/free-vector/colored-hacker-code-realistic-composition-with-person-creates-codes-hacking-stealing-information-vector-illustration_1284-18005.jpg?w=826&t=st=1693925915~exp=1693926515~hmac=6adf1d9247b779bc79d188c2f14fbb063074644f6b1f677b5eecd77963348215" />
 </p>
 
 
