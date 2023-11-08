@@ -8,7 +8,7 @@
 </p> -->
 
 
-<h2 align="center">Hi there 👋, I'm Sanjay</h2>
+<h2 align="center">Hi there 👋, I'm Sanjay and i am sigma.</h2>
 <h4 align="centre"> Senior Student (Enthusiastic Techie)</h4>
 
 <p align="center">
