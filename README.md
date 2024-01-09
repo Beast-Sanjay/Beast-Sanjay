@@ -12,25 +12,8 @@
 <h4 align="centre"> Senior Student (Enthusiastic Techie)</h4>
 
 <p align="center">
-  <img src="DALL·E 2024-01-09 10.06.54 - A hacker in a dark room, surrounded by digital 0's and 1's standing vertically around him like a forest of binary code. The hacker is wearing a dark h.png" id="image" width="300">
+  <img src="gif.gif" id="image" width="300">
 </p>
-
-<script>
-  const images = [
-    'DALL·E 2024-01-09 10.06.54 - A hacker in a dark room, surrounded by digital 0\'s and 1\'s standing vertically around him like a forest of binary code. The hacker is wearing a dark h.png',
-    'DALL·E 2024-01-09 10.07.13 - A hacker wearing a distinctive mask, surrounded by streams of 0\'s and 1\'s standing upright around them, creating an atmosphere of digital immersion. T.png',
-    'DALL·E 2024-01-09 10.09.45 - A digital art depiction of a hacker sitting in front of a computer. The hacker is wearing a smiling mask, symbolizing their mysterious and enigmatic p.png'
-  ];
-
-  let index = 0;
-
-  function changeImage() {
-    index = (index + 1) % images.length;
-    document.getElementById('image').src = images[index];
-  }
-
-  setInterval(changeImage, 5000); // Change image every 5 seconds (adjust as needed)
-</script>
 
 
 
