@@ -12,7 +12,22 @@
 <h4 align="centre"> Senior Student (Enthusiastic Techie)</h4>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/colored-hacker-code-realistic-composition-with-person-creates-codes-hacking-stealing-information-vector-illustration_1284-18005.jpg?w=826&t=st=1693925915~exp=1693926515~hmac=6adf1d9247b779bc79d188c2f14fbb063074644f6b1f677b5eecd77963348215" />
+  <img src="DALL·E 2024-01-09 10.06.54 - A hacker in a dark room, surrounded by digital 0's and 1's standing vertically around him like a forest of binary code. The hacker is wearing a dark h.png
+" id="image" width="300">
+
+<script>
+  const images = ['DALL·E 2024-01-09 10.06.54 - A hacker in a dark room, surrounded by digital 0's and 1's standing vertically around him like a forest of binary code. The hacker is wearing a dark h.png
+', 'DALL·E 2024-01-09 10.07.13 - A hacker wearing a distinctive mask, surrounded by streams of 0's and 1's standing upright around them, creating an atmosphere of digital immersion. T.png
+', 'DALL·E 2024-01-09 10.09.45 - A digital art depiction of a hacker sitting in front of a computer. The hacker is wearing a smiling mask, symbolizing their mysterious and enigmatic p.png'];
+  let index = 0;
+
+  function changeImage() {
+    index = (index + 1) % images.length;
+    document.getElementById('image').src = 'images/' + images[index];
+  }
+
+  setInterval(changeImage, 5000); // Change image every 5 seconds (adjust as needed)
+</script>
 </p>
 
 
